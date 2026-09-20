@@ -3,6 +3,6 @@
 
 ## Step 1 :
 ### Install Simple CodeBlocks -->
- Windows User   (https://www.cse.iitb.ac.in/~ranade/simplecpp/SimpleCodeBlocks.exe)
+ Windows User   https://www.cse.iitb.ac.in/~ranade/simplecpp/SimpleCodeBlocks.exe
 
 
